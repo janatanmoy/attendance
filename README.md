@@ -1,3 +1,3 @@
 # attendance
 Calculate of attendance using python.
-Author- Tanmoy Jana
+Author - Tanmoy Jana
